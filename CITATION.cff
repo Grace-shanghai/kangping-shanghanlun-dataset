@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "若使用本数据，请按下列格式引用"
+title: "康平本《伤寒论》字符锚点数据包"
+version: "1.0"
+date-released: 2026-11-16
+license: CC-BY-4.0
+doi: "10.57760/sciencedb.0180v"
+identifiers:
+  - type: doi
+    value: 10.57760/sciencedb.0180v
+  - type: other
+    value: 31253.11.sciencedb.0180v
+type: dataset
+abstract: "《古本康平伤寒论》124 页、874 单元的逐列录入，含页-列位置、起笔差与语流字段。"
+keywords:
+  - 伤寒论
+  - 康平本
+  - 古籍数字化
+  - 文本结构
